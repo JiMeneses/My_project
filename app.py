@@ -12,5 +12,5 @@ if hist_button:
     st.write(
         'Creación de un histograma para el conjunto de datos de anuncios de ventas de coches')
 
-    px.histogram(car_data, x='odometer')
+    fig = px.histogram(car_data, x='odometer')
     st.ploty_chart(fig, use_container_width=True)
