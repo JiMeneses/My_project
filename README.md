@@ -11,7 +11,7 @@ Objetivo didáctico
 Requerimientos mínimos:
 
 1. ¿Se puede acceder a la aplicación web a través de un navegador?
-- https://my-project-2-mt7v.onrender.com
+- https://my-project-3-zl2h.onrender.com
 
 2. ¿Contiene la aplicación web los siguientes puntos?
 - Al menos un encabezado con texto.

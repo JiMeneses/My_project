@@ -24,7 +24,7 @@ if hist_checkbox:
 if scatter_checkbox:
 
     st.write(
-        'Creación de gráfico de dispersión para el conjunto de datos de anuncios de ventas de coches')
+        'Gráfico de dispersión que muestra la realción entre el precio y el kilometraje')
 
     fig = px.scatter(car_data, y='price', x='odometer', labels={
                      'odometer': 'Kilometraje (mi)', 'price': 'Precio (USD)'})
